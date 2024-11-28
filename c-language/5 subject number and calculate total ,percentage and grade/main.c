@@ -12,7 +12,7 @@ void main()
     printf("enter the mcp marks=");
     scanf("%d",&d);
     printf("enter the dbms marks=");
-    scanf("%d",&e);
+    scanf("%d",&e); 
     t=a+b+c+d+e;
     p=t*100/500;
     if(p>60)
